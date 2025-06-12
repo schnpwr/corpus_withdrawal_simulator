@@ -1,5 +1,5 @@
 This is a retirement corpus withdrawal simulator which is useful for anyone who wants to see what should be the best strategy to withdraw some amount monthly from an intial corpus. 
-It basically computes failure probability at the end of a certain time peroid (say 30 years) for any strategy where failure means running out of money before the end of that time period.
+It basically computes failure probability at the end of a certain time period (say 30 years) for any strategy where failure means running out of money before the end of that time period.
 It takes into account past returns of Nifty50 and historical inflation rates to simulate a possible future of say 30 years and runs simulation of the strategy. 
 Multiple such futures are randomly sampled to finally compute the failure probability.
 This technique is much more realistic than usual SWP calculators which assume a fixed rate of returns.

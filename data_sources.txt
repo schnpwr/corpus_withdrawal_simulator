@@ -1,0 +1,5 @@
+https://in.investing.com/indices/s-p-cnx-nifty-historical-data
+
+https://cpi.mospi.gov.in/Inflation_CurrentSeries_2012.aspx
+
+(Base 2012=100)
